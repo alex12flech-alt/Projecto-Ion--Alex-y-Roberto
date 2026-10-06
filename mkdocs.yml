@@ -5,3 +5,5 @@ theme:
 
 nav:
   - Inici: index.md
+  - Miembros: miembros.md
+  
