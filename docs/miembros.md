@@ -1,9 +1,9 @@
 # Membres de l'equip
 
-![Ion Ballester](img/ion.jpg)
+![Ion Ballester]![![alt text](image-4.png)]
 
 **Ion Ballester**
 
-![Alex Luque](img/alex.jpg)
+![Alex Luque](![![alt text](image-2.png)])
 
 **Alex Luque**
