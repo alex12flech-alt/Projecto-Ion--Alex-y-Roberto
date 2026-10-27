@@ -1,9 +1,13 @@
-# Membres de l'equip
+# Miembros del equipo
 
-![Ion Ballester]![![alt text](image-4.png)]
+## Luque estudio de interiores
 
-**Ion Ballester**
+<figure markdown>
+  ![Ion Ballester](img/ion.jpeg){ width="250" }
+  <figcaption>Ion Ballester</figcaption>
+</figure>
 
-![Alex Luque](![![alt text](image-2.png)])
-
-**Alex Luque**
+<figure markdown>
+  ![Alex Luque](img/alex.jpeg){ width="250" }
+  <figcaption>Alex Luque</figcaption>
+</figure>
