@@ -1,9 +1,14 @@
-site_name: Documentació del Projecte
+site_name: Chatbot de gestió de cites
+site_author: Ion Ballester, Alex Luque
 
 theme:
   name: material
 
 nav:
   - Inici: index.md
-  - Miembros: miembros.md
-  
+  - Membres: miembros.md
+  - mkdocs.yml i deploy.yml: configuracio.md
+
+plugins:
+  - search
+  - glightbox
